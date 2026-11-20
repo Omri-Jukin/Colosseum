@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.vite/
+.tmp-assets/
+*.log
+.env
+.env.*
+!.env.example
